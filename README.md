@@ -1,1 +1,1 @@
-![result](pics/ablation_t.pdf)
+![result](pics/result.png)
