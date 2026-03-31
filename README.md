@@ -1,1 +1,1 @@
-# semantic
+![result](pics/ablation_t.pdf)
